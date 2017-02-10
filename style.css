@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Annie+Use+Your+Telescope');
+* {
+	font-family: 'Annie Use Your Telescope', cursive;
+}
+
+html,
+body {
+	height: 100%;
+}
+
+header {
+	background: #c0392b;
+	color: white;
+	min-height: 100%;
+}
+
+header .jumbotron {
+	background: transparent;
+}
+
+.timeline {
+	margin-top: 50px;
+}
+
+.circle {
+	border: 2px solid white;
+	margin: auto;
+	width: 160px;
+	border-radius: 80px;
+	margin-top: 100px;
+}
+
+blockquote {
+	margin-top: 100px;
+}
+
+footer .jumbotron {
+	background: #2980b9;
+	color: white;
+}

@@ -1,0 +1,23 @@
+{
+	"name": "Microtechx",
+	"authors": [
+		"Mohamed Anas <contact@mabo.tn>"
+	],
+	"description": "",
+	"main": "",
+	"license": "MIT",
+	"homepage": "",
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"test",
+		"tests"
+	],
+	"dependencies": {
+		"bootstrap": "^3.3.7",
+		"normalize-css": "^5.0.0",
+		"font-awesome": "fontawesome#^4.7.0",
+		"Ionicons": "ionicons#^2.0.1"
+	}
+}
